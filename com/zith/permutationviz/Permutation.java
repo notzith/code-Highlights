@@ -1,4 +1,4 @@
-package com.yourcompany.permutationviz;
+package com.zith.permutationviz;
 
 public class Permutation  {
     static Visual v;
